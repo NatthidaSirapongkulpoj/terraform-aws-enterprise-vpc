@@ -42,6 +42,8 @@ AWS Enterprise VPC
   * Private Subnet (10.0.2.0/24)
   * Security Group
 
+![Terraform Apply](Screenshots/vpc-created.png)
+
 ---
 
 ## Project Structure
