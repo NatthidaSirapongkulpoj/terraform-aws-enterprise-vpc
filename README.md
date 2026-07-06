@@ -1,5 +1,6 @@
 # terraform-aws-enterprise-vpc
-Terraform-based AWS VPC project demonstrating Infrastructure as Code (IaC), cloud networking, security groups, subnets, and modular design principles.
+Enterprise AWS VPC infrastructure provisioned with Terraform following Infrastructure as Code (IaC) principles. Demonstrates modular architecture, secure networking, reusable Terraform modules, scalable cloud infrastructure, and AWS networking best practices suitable for production environments.
+
 # AWS Enterprise VPC Infrastructure with Terraform
 
 ## Project Overview
